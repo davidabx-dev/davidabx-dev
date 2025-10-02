@@ -7,6 +7,7 @@
 </div>
 
 <br>
+
 <details open>
     <summary  align="center"><h2> <img src="https://camo.githubusercontent.com/e6733dc875a6a93407349aeb14b502a16750420d342e92c7d3f1f287fa4a828e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33662f37652f34652f33663765346566663763393665396665346238623462316666336637626462352e676966" data-canonical-src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" style="max-width: 100%; display: inline-block; margin-right:2px;" data-target="animated-image.originalImage" width="35.98px"> Sobre mim </h2></summary>
     <p align="center"> Desenvolvedor Front-End e entusiasta de TI do Brasil, apaixonado por criar experiências digitais únicas. </p>
@@ -53,20 +54,13 @@
 
 <br>
 
-
-
-
 <details open>
-<summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Estatísticas de perfil </h2></summary>
+<summary align="center"><h2> <img alt="GIF" src="giphy.gif" width="25px"> Estatísticas de perfil </h2></summary>
   <div align="center">
       <img height="192px" alt="davidabx-dev's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidabx-dev&theme=transparent&title_color=00FFC3&color=00FFC3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" weight="41%" height="192px"/>
       
 <img height="192px" src="https://github-readme-stats.vercel.app/api?username=davidabx-dev&theme=transparent&rank_icon=github&title_color=00FFC3&color=00FFC3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div>
-
-
-
-
 
   <div align="center">
   <a href="https://github.com/davidabx-dev/davidabx-dev"><img alt="davidabx-dev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=davidabx-dev&bg_color=RRGGBBAA&title_color=00FFC3&color=00FFC3&line=00FFC3&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Grap" /></a>
