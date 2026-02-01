@@ -36,6 +36,7 @@
     <a href="https://vuejs.org/" target="_blank"> <img alt="vuejs" height="38px" src="img/tech/vuejs-original.svg" /></a>
     <a href="#" target="_blank"> <img alt="vitejs" height="42px" src="img/tech/vitejs-original.svg" /></a>
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="img/tech/python.svg" /></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank"> <img alt="FastAPI" height="42px" src="img/tech/fastapi-original.svg" /></a>
     <a href="#" target="_blank"> <img alt="php" height ="42px"  src="img/tech/php-original.svg" /></a>
     <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" height ="42px"  src="img/tech/laravel-original.svg" /></a>
     <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"> <img alt="C#" height="42px" src="img/tech/csharp-original.svg" /></a>
@@ -48,10 +49,11 @@
     <a href="https://openai.com/chatgpt" target="_blank"> <img alt="ChatGPT" height="42px" src="img/tech/chatgpt-ai.svg" /></a>
     <a href="https://gemini.google.com/" target="_blank"> <img alt="Gemini" height="42px" src="img/tech/gemini-ai.svg" /></a>
     <a href="https://www.anthropic.com/" target="_blank"> <img alt="Claude" height="42px" src="img/tech/claude-ai.svg" /></a>
+    <a href="https://groq.com/" target="_blank"> <img alt="Groq" height="42px" src="img/tech/groq-original.svg" /></a>
     <a href="https://www.docker.com/" target="_blank"> <img alt="Docker" height="42px" src="img/tech/docker-original.svg" /></a>
     <a href="https://pt.wikipedia.org/wiki/Linux/" target="_blank"> <img alt="linux" height ="42px"  src="img/tech/linux-original.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="42px"  src="img/tech/git-original.svg" /></a>
-    <a href="https://github.com/davidabx7" target="_blank"> <img alt="Github" height ="50px"  src="img/tech/github.svg" /></a>
+    <a href="https://github.com/davidabx-dev" target="_blank"> <img alt="Github" height ="50px"  src="img/tech/github.svg" /></a>
     <a href="https://laravel.com/" target="_blank"> <img alt="githubactions" height ="42px"  src="img/tech/githubactions-original.svg" /></a>
     <a href="https://github.com/features/codespaces/" target="_blank"> <img alt="githubcodespaces" height ="42px"  src="img/tech/githubcodespaces.svg" /></a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img alt="vscode" height ="42px"  src="img/tech/vscode.svg" /></a>
