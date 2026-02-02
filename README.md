@@ -90,7 +90,7 @@
     <a href="https://www.docker.com/" target="_blank"> <img alt="Docker" height="42px" src="img/tech/docker-original.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="42px" src="img/tech/git-original.svg" /></a>
     <a href="https://github.com/davidabx-dev" target="_blank"> <img alt="Github" height ="50px" src="img/tech/github.svg" /></a>
-    <a href="https://laravel.com/" target="_blank"> <img alt="githubactions" height ="42px" src="img/tech/githubactions-original.svg" /></a>
+    <a href="https://github.com/features/actions/" target="_blank"> <img alt="githubactions" height ="42px" src="img/tech/githubactions-original.svg" /></a>
     <a href="https://github.com/features/codespaces/" target="_blank"> <img alt="githubcodespaces" height ="42px" src="img/tech/githubcodespaces.svg" /></a>
   </p>
 
