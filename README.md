@@ -26,20 +26,20 @@
 
 <details open>
 <summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/0490c688-f4a9-4d1c-8aaf-d186c1b291c9" width="35px" > Tech Stack </h2></summary>
+
 <br>
 
 <div align="center">
     <h3>🎨 UI/UX Design & Frontend Architecture</h3>
   <p>
-    <a href="https://vuejs.org/"> <img alt="vuejs" height="38px" src="https://vuejs.org/vuejs-original.svg" /></a>
     <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" height="42px" src="img/tech/figma-original.svg" /></a>
     <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px" src="img/tech/html.svg" /></a>
     <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px" src="img/tech/css.svg" /></a>
     <a href="https://tailwindcss.com/" target="_blank"> <img alt="tailwindcss" height="42px" src="img/tech/tailwindcss-original.svg" /></a>
-    <a href="#" target="https://pt.wikipedia.org/wiki/JavaScript"> <img alt="Javascript" height="42px" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
+    <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank"> <img alt="Javascript" height="42px" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="Typerscript" height="42px" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
     <a href="https://vuejs.org/" target="_blank"> <img alt="vuejs" height="38px" src="img/tech/vuejs-original.svg" /></a>
-    <a href="#" target="https://vite.dev/"> <img alt="vitejs" height="42px" src="img/tech/vitejs-original.svg" /></a>
+    <a href="https://vite.dev/" target="_blank"> <img alt="vitejs" height="42px" src="img/tech/vitejs-original.svg" /></a>
   </p>
 
   <br>
@@ -60,7 +60,7 @@
     <a href="#" target="https://www.php.net/"> <img alt="php" height ="42px" src="img/tech/php-original.svg" /></a>
     <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"> <img alt="C#" height="42px" src="img/tech/csharp-original.svg" /></a>
     <a href="https://go.dev/" target="_blank"> <img alt="Go" height="42px" src="img/tech/go-original.svg" /></a>
-    <a href="#" target="_blank"> <img alt="SQL" height="42px" src="img/tech/azuresqldatabase-original.svg" /></a
+    <a href="https://azure.microsoft.com/pt-br/products/azure-sql/database" target="_blank"> <img alt="SQL" height="42px" src="img/tech/azuresqldatabase-original.svg" /></a
   </p>
 
   <br>
