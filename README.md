@@ -31,6 +31,7 @@
 <div align="center">
     <h3>🎨 UI/UX Design & Frontend Architecture</h3>
   <p>
+    <a href="https://vuejs.org/"> <img alt="vuejs" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>
     <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" height="42px" src="img/tech/figma-original.svg" /></a>
     <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px" src="img/tech/html.svg" /></a>
     <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px" src="img/tech/css.svg" /></a>
