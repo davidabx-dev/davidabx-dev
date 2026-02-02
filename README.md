@@ -49,7 +49,6 @@
     <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" height ="42px" src="img/tech/laravel-original.svg" /></a>
     <a href="https://dotnet.microsoft.com/" target="_blank"> <img alt=".NET Core" height="42px" src="img/tech/dotnetcore-original.svg" /></a>
     <a href="https://wordpress.com/" target="_blank"> <img alt="wordexpress" height ="42px" src="img/tech/wordpress-roxo.svg" /></a>
-    <a href="https://www.postman.com/" target="_blank"> <img alt="Postman" height="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a>
   </p>
 
   <br>
@@ -60,7 +59,7 @@
     <a href="#" target="_blank"> <img alt="php" height ="42px" src="img/tech/php-original.svg" /></a>
     <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"> <img alt="C#" height="42px" src="img/tech/csharp-original.svg" /></a>
     <a href="https://go.dev/" target="_blank"> <img alt="Go" height="42px" src="img/tech/go-original.svg" /></a>
-    <a href="#" target="_blank"> <img alt="SQL" height="42px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" /></a>
+    <a href="#" target="_blank"> <img alt="SQL" height="42px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" /></a
   </p>
 
   <br>
