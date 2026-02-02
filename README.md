@@ -35,10 +35,10 @@
     <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px" src="img/tech/html.svg" /></a>
     <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px" src="img/tech/css.svg" /></a>
     <a href="https://tailwindcss.com/" target="_blank"> <img alt="tailwindcss" height="42px" src="img/tech/tailwindcss-original.svg" /></a>
-    <a href="#" target="_blank"> <img alt="Javascript" height="42px" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
+    <a href="#" target="https://pt.wikipedia.org/wiki/JavaScript"> <img alt="Javascript" height="42px" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="Typerscript" height="42px" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
     <a href="https://vuejs.org/" target="_blank"> <img alt="vuejs" height="38px" src="img/tech/vuejs-original.svg" /></a>
-    <a href="#" target="_blank"> <img alt="vitejs" height="42px" src="img/tech/vitejs-original.svg" /></a>
+    <a href="#" target="https://vite.dev/"> <img alt="vitejs" height="42px" src="img/tech/vitejs-original.svg" /></a>
   </p>
 
   <br>
