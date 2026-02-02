@@ -56,7 +56,7 @@
   <h3>💻 Core Programming Languages</h3>
   <p>
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px" src="img/tech/python.svg" /></a>
-    <a href="#" target="_blank"> <img alt="php" height ="42px" src="img/tech/php-original.svg" /></a>
+    <a href="#" target="https://www.php.net/"> <img alt="php" height ="42px" src="img/tech/php-original.svg" /></a>
     <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"> <img alt="C#" height="42px" src="img/tech/csharp-original.svg" /></a>
     <a href="https://go.dev/" target="_blank"> <img alt="Go" height="42px" src="img/tech/go-original.svg" /></a>
     <a href="#" target="_blank"> <img alt="SQL" height="42px" src="img/tech/azuresqldatabase-original.svg" /></a
@@ -85,7 +85,7 @@
 
   <h3>☁️ DevOps, Cloud & Operating Systems</h3>
   <p>
-    <a href="https://pt.wikipedia.org/wiki/Linux/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/linux-original.svg" /></a>
+    <a href="https://www.linux.org/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/linux-original.svg" /></a>
     <a href="https://www.docker.com/" target="_blank"> <img alt="Docker" height="42px" src="img/tech/docker-original.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="42px" src="img/tech/git-original.svg" /></a>
     <a href="https://github.com/davidabx-dev" target="_blank"> <img alt="Github" height ="50px" src="img/tech/github.svg" /></a>
