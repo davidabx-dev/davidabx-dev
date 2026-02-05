@@ -110,7 +110,7 @@
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="giphy.gif" width="25px"> Estatísticas de perfil </h2></summary>
   <div align="center">
-      <img height="192px" alt="davidabx-dev's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidabx-dev&theme=transparent&title_color=00FFC3&color=00FFC3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" width="41%" />
+<img height="192px" alt="davidabx-dev's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidabx-dev&theme=transparent&title_color=00FFC3&color=00FFC3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" width="41%" />
       
 <img height="192px" src="https://github-readme-stats.vercel.app/api?username=davidabx-dev&theme=transparent&rank_icon=github&title_color=00FFC3&color=00FFC3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div>
