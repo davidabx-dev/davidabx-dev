@@ -60,7 +60,7 @@
     <a href="https://www.php.net/" target="_blank"> <img alt="php" height ="42px" src="img/tech/php-original.svg" /></a>
     <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"> <img alt="C#" height="42px" src="img/tech/csharp-original.svg" /></a>
     <a href="https://go.dev/" target="_blank"> <img alt="Go" height="42px" src="img/tech/go-original.svg" /></a>
-    <a href="https://azure.microsoft.com/pt-br/products/azure-sql/database" target="_blank"> <img alt="SQL" height="42px" src="img/tech/azuresqldatabase-original.svg" /></a
+    <a href="https://azure.microsoft.com/pt-br/products/azure-sql/database" target="_blank"> <img alt="SQL" height="42px" src="img/tech/azuresqldatabase-original.svg" /></a>
   </p>
 
   <br>
@@ -110,13 +110,13 @@
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="giphy.gif" width="25px"> Estatísticas de perfil </h2></summary>
   <div align="center">
-      <img height="192px" alt="davidabx-dev's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidabx-dev&theme=transparent&title_color=00FFC3&color=00FFC3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" weight="41%" height="192px"/>
+      <img height="192px" alt="davidabx-dev's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidabx-dev&theme=transparent&title_color=00FFC3&color=00FFC3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" widht="41%" height="192px"/>
       
 <img height="192px" src="https://github-readme-stats.vercel.app/api?username=davidabx-dev&theme=transparent&rank_icon=github&title_color=00FFC3&color=00FFC3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div>
 
   <div align="center">
-  <a href="https://github.com/davidabx-dev/davidabx-dev"><img alt="davidabx-dev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=davidabx-dev&bg_color=RRGGBBAA&title_color=00FFC3&color=00FFC3&line=00FFC3&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Grap" /></a>
+  <a href="https://github.com/davidabx-dev/davidabx-dev"><img alt="davidabx-dev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=davidabx-dev&bg_color=RRGGBBAA&title_color=00FFC3&color=00FFC3&line=00FFC3&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
       
  <br>
