@@ -70,7 +70,7 @@
     <a href="https://openai.com/chatgpt" target="_blank"> <img alt="ChatGPT" height="42px" src="img/tech/chatgpt-ai.svg" /></a>
     <a href="https://gemini.google.com/" target="_blank"> <img alt="Gemini" height="42px" src="img/tech/gemini-ai.svg" /></a>
     <a href="https://www.anthropic.com/" target="_blank"> <img alt="Claude" height="42px" src="img/tech/claude-ai.svg" /></a>
-    <a href="https://groq.com/" target="_blank"> <img alt="Groq" height="42px" src="img/tech/groq-original.svg" /></a>
+    <a href="https://groq.com/" target="_blank"> <img alt="Groq" height="42px" src="img/tech/groq.svg" /></a>
   </p>
 
   <br>
