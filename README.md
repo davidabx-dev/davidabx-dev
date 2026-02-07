@@ -58,8 +58,8 @@
   <p>
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px" src="img/tech/python.svg" /></a>
     <a href="https://www.php.net/" target="_blank"> <img alt="php" height ="42px" src="img/tech/php-original.svg" /></a>
-    <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"> <img alt="C#" height="42px" src="img/tech/csharp-original.svg" /></a>
-    <a href="https://go.dev/" target="_blank"> <img alt="Go" height="42px" src="img/tech/go-original.svg" /></a>
+    <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"> <img alt="C#" height="52px" src="img/tech/Csharp.svg" /></a>
+    <a href="https://go.dev/" target="_blank"> <img alt="Go" height="52px" src="img/tech/go.svg" /></a>
     <a href="https://azure.microsoft.com/pt-br/products/azure-sql/database" target="_blank"> <img alt="SQL" height="42px" src="img/tech/azuresqldatabase-original.svg" /></a>
   </p>
 
@@ -86,6 +86,7 @@
 
   <h3>☁️ DevOps, Cloud & Operating Systems</h3>
   <p>
+    <a href="https://www.microsoft.com/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/microsoft-windows.svg" /></a>
     <a href="https://www.linux.org/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/linux-original.svg" /></a>
     <a href="https://www.docker.com/" target="_blank"> <img alt="Docker" height="42px" src="img/tech/docker-original.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="42px" src="img/tech/git-original.svg" /></a>
