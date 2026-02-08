@@ -101,8 +101,8 @@
   <p>
     <a href="https://code.visualstudio.com/" target="_blank"> <img alt="vscode" height ="42px" src="img/tech/vscode.svg" /></a>
     <a href="https://cursor.com/" target="_blank"> <img alt="cursor" height ="42px" src="img/tech/cursor-original.svg" /></a>
-    <a href="https://excel.cloud.microsoft/" target="_blank"> <img alt="excel" height ="42px" src="img/tech/excel-original.svg" /></a>
-    <a href="https://word.cloud.microsoft/" target="_blank"> <img alt="word" height ="42px" src="img/tech/word-original.svg" /></a>
+    <a href="https://excel.cloud.microsoft/" target="_blank"> <img alt="excel" height ="42px" src="img/tech/excel.svg" /></a>
+    <a href="https://word.cloud.microsoft/" target="_blank"> <img alt="word" height ="42px" src="img/tech/Microsoft_Office_Word.svg" /></a>
   </p>
 </details>
 
