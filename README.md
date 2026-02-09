@@ -38,8 +38,8 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img alt="tailwindcss" height="42px" src="img/tech/tailwindcss.svg" /></a>
     <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank"> <img alt="Javascript" height="42px" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="Typerscript" height="42px" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
-    <a href="https://vuejs.org/" target="_blank"> <img alt="vuejs" height="38px" src="img/tech/vuejs-original.svg" /></a>
-    <a href="https://vite.dev/" target="_blank"> <img alt="vitejs" height="42px" src="img/tech/vitejs-original.svg" /></a>
+    <a href="https://vuejs.org/" target="_blank"> <img alt="vuejs" height="42px" src="img/tech/vuejs.svg" /></a>
+    <a href="https://vite.dev/" target="_blank"> <img alt="vitejs" height="42px" src="img/tech/vite.svg" /></a>
   </p>
 
   <br>
@@ -47,6 +47,7 @@
   <h3>🛠️ Backend Frameworks & API Ecosystem</h3>
   <p>
     <a href="https://fastapi.tiangolo.com/" target="_blank"> <img alt="FastAPI" height="42px" src="img/tech/fastapi.svg" /></a>
+    <a href="https://nodejs.org/" target="_blank"> <img alt="FastAPI" height="42px" src="img/tech/nodejs.svg" /></a>
     <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" height ="42px" src="img/tech/laravel-original.svg" /></a>
     <a href="https://dotnet.microsoft.com/" target="_blank"> <img alt=".NET Core" height="42px" src="img/tech/dotnetcore.svg" /></a>
     <a href="https://wordpress.com/" target="_blank"> <img alt="wordexpress" height ="42px" src="img/tech/wordpress.svg" /></a>
