@@ -32,10 +32,10 @@
 <div align="center">
     <h3>🎨 UI/UX Design & Frontend Architecture</h3>
   <p>
-    <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" height="42px" src="img/tech/figma-original.svg" /></a>
-    <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px" src="img/tech/html.svg" /></a>
-    <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px" src="img/tech/css.svg" /></a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img alt="tailwindcss" height="42px" src="img/tech/tailwindcss-original.svg" /></a>
+    <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" height="42px" src="img/tech/figma.svg" /></a>
+    <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px" src="img/tech/html5.svg" /></a>
+    <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px" src="img/tech/css3.svg" /></a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img alt="tailwindcss" height="42px" src="img/tech/tailwindcss.svg" /></a>
     <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank"> <img alt="Javascript" height="42px" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="Typerscript" height="42px" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
     <a href="https://vuejs.org/" target="_blank"> <img alt="vuejs" height="38px" src="img/tech/vuejs-original.svg" /></a>
@@ -48,7 +48,7 @@
   <p>
     <a href="https://fastapi.tiangolo.com/" target="_blank"> <img alt="FastAPI" height="42px" src="img/tech/fastapi.svg" /></a>
     <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" height ="42px" src="img/tech/laravel-original.svg" /></a>
-    <a href="https://dotnet.microsoft.com/" target="_blank"> <img alt=".NET Core" height="42px" src="img/tech/dotnetcore-original.svg" /></a>
+    <a href="https://dotnet.microsoft.com/" target="_blank"> <img alt=".NET Core" height="42px" src="img/tech/dotnetcore.svg" /></a>
     <a href="https://wordpress.com/" target="_blank"> <img alt="wordexpress" height ="42px" src="img/tech/wordpress.svg" /></a>
   </p>
 
