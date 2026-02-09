@@ -46,10 +46,10 @@
 
   <h3>🛠️ Backend Frameworks & API Ecosystem</h3>
   <p>
-    <a href="https://fastapi.tiangolo.com/" target="_blank"> <img alt="FastAPI" height="42px" src="img/tech/fastapi-original.svg" /></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank"> <img alt="FastAPI" height="42px" src="img/tech/fastapi.svg" /></a>
     <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" height ="42px" src="img/tech/laravel-original.svg" /></a>
     <a href="https://dotnet.microsoft.com/" target="_blank"> <img alt=".NET Core" height="42px" src="img/tech/dotnetcore-original.svg" /></a>
-    <a href="https://wordpress.com/" target="_blank"> <img alt="wordexpress" height ="42px" src="img/tech/wordpress-roxo.svg" /></a>
+    <a href="https://wordpress.com/" target="_blank"> <img alt="wordexpress" height ="42px" src="img/tech/wordpress.svg" /></a>
   </p>
 
   <br>
@@ -58,7 +58,7 @@
   <p>
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px" src="img/tech/python.svg" /></a>
     <a href="https://www.php.net/" target="_blank"> <img alt="php" height ="52px" src="img/tech/php.svg" /></a>
-    <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"> <img alt="C#" height="52px" src="img/tech/Csharp.svg" /></a>
+    <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"> <img alt="C#" height="52px" src="img/tech/csharp.svg" /></a>
     <a href="https://go.dev/" target="_blank"> <img alt="Go" height="52px" src="img/tech/go.svg" /></a>
     <a href="https://azure.microsoft.com/pt-br/products/azure-sql/database" target="_blank"> <img alt="SQL" height="52px" src="img/tech/azuresqldatabase.svg" /></a>
   </p>
@@ -79,8 +79,8 @@
   <h3>💾 Databases & Authorization</h3>
   <p>
     <a href="https://www.mysql.com/" target="_blank"> <img alt="mysql" height ="42px" src="https://techstack-generator.vercel.app/mysql-icon.svg" /></a>
-    <a href="https://www.rabbitmq.com/" target="_blank"> <img alt="RabbitMQ" height="42px" src="img/tech/rabbitmq-original.svg" /></a>
-    <a href="https://n8n.io/" target="_blank"> <img alt="n8n" height ="42px" src="img/tech/n8n-original.svg" /></a>
+    <a href="https://www.rabbitmq.com/" target="_blank"> <img alt="RabbitMQ" height="42px" src="img/tech/rabbitmq.svg" /></a>
+    <a href="https://n8n.io/" target="_blank"> <img alt="n8n" height ="42px" src="img/tech/n8n.svg" /></a>
   </p>
 
   <br>
@@ -91,7 +91,7 @@
     <a href="https://www.microsoft.com/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/microsoft-windows.svg" /></a>
     <a href="https://www.linux.org/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/linux-original.svg" /></a>
     <a href="https://www.docker.com/" target="_blank"> <img alt="Docker" height="42px" src="img/tech/docker-original.svg" /></a>
-    <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="42px" src="img/tech/git-original.svg" /></a>
+    <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="42px" src="img/tech/git.svg" /></a>
     <a href="https://github.com/davidabx-dev" target="_blank"> <img alt="Github" height ="50px" src="img/tech/github.svg" /></a>
     <a href="https://github.com/features/actions/" target="_blank"> <img alt="githubactions" height ="42px" src="img/tech/githubactions-original.svg" /></a>
     <a href="https://github.com/features/codespaces/" target="_blank"> <img alt="githubcodespaces" height ="42px" src="img/tech/githubcodespaces.svg" /></a>
