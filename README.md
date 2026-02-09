@@ -90,7 +90,7 @@
     <a href="https://www.kali.org/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/kali-linux.svg" /></a>
     <a href="https://www.microsoft.com/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/microsoft-windows.svg" /></a>
     <a href="https://www.linux.org/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/linux-original.svg" /></a>
-    <a href="https://www.docker.com/" target="_blank"> <img alt="Docker" height="42px" src="img/tech/docker-original.svg" /></a>
+    <a href="https://www.docker.com/" target="_blank"> <img alt="Docker" height="42px" src="img/tech/docker.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="42px" src="img/tech/git.svg" /></a>
     <a href="https://github.com/davidabx-dev" target="_blank"> <img alt="Github" height ="50px" src="img/tech/github.svg" /></a>
     <a href="https://github.com/features/actions/" target="_blank"> <img alt="githubactions" height ="42px" src="img/tech/githubactions-original.svg" /></a>
