@@ -48,7 +48,7 @@
   <p>
     <a href="https://fastapi.tiangolo.com/" target="_blank"> <img alt="FastAPI" height="42px" src="img/tech/fastapi.svg" /></a>
     <a href="https://nodejs.org/" target="_blank"> <img alt="FastAPI" height="42px" src="img/tech/nodejs.svg" /></a>
-    <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" height ="42px" src="img/tech/laravel-original.svg" /></a>
+    <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" height ="42px" src="img/tech/laravel.svg" /></a>
     <a href="https://dotnet.microsoft.com/" target="_blank"> <img alt=".NET Core" height="42px" src="img/tech/dotnetcore.svg" /></a>
     <a href="https://wordpress.com/" target="_blank"> <img alt="wordexpress" height ="42px" src="img/tech/wordpress.svg" /></a>
   </p>
@@ -90,11 +90,11 @@
   <p>
     <a href="https://www.kali.org/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/kali-linux.svg" /></a>
     <a href="https://www.microsoft.com/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/microsoft-windows.svg" /></a>
-    <a href="https://www.linux.org/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/linux-original.svg" /></a>
+    <a href="https://www.linux.org/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/linux-2025.svg" /></a>
     <a href="https://www.docker.com/" target="_blank"> <img alt="Docker" height="42px" src="img/tech/docker.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="42px" src="img/tech/git.svg" /></a>
     <a href="https://github.com/davidabx-dev" target="_blank"> <img alt="Github" height ="50px" src="img/tech/github.svg" /></a>
-    <a href="https://github.com/features/actions/" target="_blank"> <img alt="githubactions" height ="42px" src="img/tech/githubactions-original.svg" /></a>
+    <a href="https://github.com/features/actions/" target="_blank"> <img alt="githubactions" height ="42px" src="img/tech/githubactions.svg" /></a>
     <a href="https://github.com/features/codespaces/" target="_blank"> <img alt="githubcodespaces" height ="42px" src="img/tech/githubcodespaces.svg" /></a>
   </p>
 
