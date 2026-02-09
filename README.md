@@ -32,25 +32,25 @@
 <div align="center">
     <h3>🎨 UI/UX Design & Frontend Architecture</h3>
   <p>
-    <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" height="42px" src="img/tech/figma.svg" /></a>
-    <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px" src="img/tech/html5.svg" /></a>
-    <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px" src="img/tech/css3.svg" /></a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img alt="tailwindcss" height="42px" src="img/tech/tailwindcss.svg" /></a>
-    <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank"> <img alt="Javascript" height="42px" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="Typerscript" height="42px" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
-    <a href="https://vuejs.org/" target="_blank"> <img alt="vuejs" height="42px" src="img/tech/vuejs.svg" /></a>
-    <a href="https://vite.dev/" target="_blank"> <img alt="vitejs" height="42px" src="img/tech/vite.svg" /></a>
+    <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" height="58px" src="img/tech/figma.svg" /></a>
+    <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="60px" src="img/tech/html5.svg" /></a>
+    <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="60px" src="img/tech/css3.svg" /></a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img alt="tailwindcss" height="60px" src="img/tech/tailwindcss.svg" /></a>
+    <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank"> <img alt="Javascript" height="62px" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="Typerscript" height="62px" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
+    <a href="https://vuejs.org/" target="_blank"> <img alt="vuejs" height="60px" src="img/tech/vuejs.svg" /></a>
+    <a href="https://vite.dev/" target="_blank"> <img alt="vitejs" height="60px" src="img/tech/vite.svg" /></a>
   </p>
 
   <br>
 
   <h3>🛠️ Backend Frameworks & API Ecosystem</h3>
   <p>
-    <a href="https://fastapi.tiangolo.com/" target="_blank"> <img alt="FastAPI" height="42px" src="img/tech/fastapi.svg" /></a>
-    <a href="https://nodejs.org/" target="_blank"> <img alt="FastAPI" height="42px" src="img/tech/nodejs.svg" /></a>
-    <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" height ="42px" src="img/tech/laravel.svg" /></a>
-    <a href="https://dotnet.microsoft.com/" target="_blank"> <img alt=".NET Core" height="42px" src="img/tech/dotnetcore.svg" /></a>
-    <a href="https://wordpress.com/" target="_blank"> <img alt="wordexpress" height ="42px" src="img/tech/wordpress.svg" /></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank"> <img alt="FastAPI" height="70px" src="img/tech/fastapi.svg" /></a>
+    <a href="https://nodejs.org/" target="_blank"> <img alt="FastAPI" height="70px" src="img/tech/nodejs.svg" /></a>
+    <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" height ="70px" src="img/tech/laravel.svg" /></a>
+    <a href="https://dotnet.microsoft.com/" target="_blank"> <img alt=".NET Core" height="70px" src="img/tech/dotnetcore.svg" /></a>
+    <a href="https://wordpress.com/" target="_blank"> <img alt="wordexpress" height ="70px" src="img/tech/wordpress.svg" /></a>
   </p>
 
   <br>
@@ -68,11 +68,11 @@
 
   <h3>🧠 Artificial Intelligence & LLM Ops</h3>
   <p>
-    <a href="https://openai.com/chatgpt" target="_blank"> <img alt="ChatGPT" height="42px" src="img/tech/chatgpt-ai.svg" /></a>
-    <a href="https://gemini.google.com/" target="_blank"> <img alt="Gemini" height="42px" src="img/tech/gemini-ai.svg" /></a>
-    <a href="https://www.anthropic.com/" target="_blank"> <img alt="Claude" height="42px" src="img/tech/claude-ai.svg" /></a>
-    <a href="https://groq.com/" target="_blank"> <img alt="Groq" height="42px" src="img/tech/groq.svg" /></a>
-    <a href="https://copilot.microsoft.com/" target="_blank"> <img alt="Groq" height="42px" src="img/tech/microsoft-copilot.svg" /></a>
+    <a href="https://openai.com/chatgpt" target="_blank"> <img alt="ChatGPT" height="52px" src="img/tech/chatgpt-ai.svg" /></a>
+    <a href="https://gemini.google.com/" target="_blank"> <img alt="Gemini" height="52px" src="img/tech/gemini-ai.svg" /></a>
+    <a href="https://www.anthropic.com/" target="_blank"> <img alt="Claude" height="52px" src="img/tech/claude-ai.svg" /></a>
+    <a href="https://groq.com/" target="_blank"> <img alt="Groq" height="52px" src="img/tech/groq.svg" /></a>
+    <a href="https://copilot.microsoft.com/" target="_blank"> <img alt="Groq" height="52px" src="img/tech/microsoft-copilot.svg" /></a>
   </p>
 
   <br>
@@ -80,34 +80,34 @@
   <h3>💾 Databases & Authorization</h3>
   <p>
     <a href="https://www.mysql.com/" target="_blank"> <img alt="mysql" height ="42px" src="https://techstack-generator.vercel.app/mysql-icon.svg" /></a>
-    <a href="https://www.rabbitmq.com/" target="_blank"> <img alt="RabbitMQ" height="42px" src="img/tech/rabbitmq.svg" /></a>
-    <a href="https://n8n.io/" target="_blank"> <img alt="n8n" height ="42px" src="img/tech/n8n.svg" /></a>
+    <a href="https://www.rabbitmq.com/" target="_blank"> <img alt="RabbitMQ" height="52px" src="img/tech/rabbitmq.svg" /></a>
+    <a href="https://n8n.io/" target="_blank"> <img alt="n8n" height ="52px" src="img/tech/n8n.svg" /></a>
   </p>
 
   <br>
 
   <h3>☁️ DevOps, Cloud & Operating Systems</h3>
   <p>
-    <a href="https://www.kali.org/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/kali-linux.svg" /></a>
-    <a href="https://www.microsoft.com/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/microsoft-windows.svg" /></a>
-    <a href="https://www.linux.org/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/linux-2025.svg" /></a>
-    <a href="https://www.docker.com/" target="_blank"> <img alt="Docker" height="42px" src="img/tech/docker.svg" /></a>
-    <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="42px" src="img/tech/git.svg" /></a>
+    <a href="https://www.kali.org/" target="_blank"> <img alt="linux" height ="62px" src="img/tech/kali-linux.svg" /></a>
+    <a href="https://www.microsoft.com/" target="_blank"> <img alt="linux" height ="62px" src="img/tech/microsoft-windows.svg" /></a>
+    <a href="https://www.linux.org/" target="_blank"> <img alt="linux" height ="62px" src="img/tech/linux-2025.svg" /></a>
+    <a href="https://www.docker.com/" target="_blank"> <img alt="Docker" height="62px" src="img/tech/docker.svg" /></a>
+    <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="62px" src="img/tech/git.svg" /></a>
     <a href="https://github.com/davidabx-dev" target="_blank"> <img alt="Github" height ="50px" src="img/tech/github.svg" /></a>
-    <a href="https://github.com/features/actions/" target="_blank"> <img alt="githubactions" height ="42px" src="img/tech/githubactions.svg" /></a>
-    <a href="https://github.com/features/codespaces/" target="_blank"> <img alt="githubcodespaces" height ="42px" src="img/tech/githubcodespaces.svg" /></a>
+    <a href="https://github.com/features/actions/" target="_blank"> <img alt="githubactions" height ="62px" src="img/tech/githubactions.svg" /></a>
+    <a href="https://github.com/features/codespaces/" target="_blank"> <img alt="githubcodespaces" height ="62px" src="img/tech/githubcodespaces.svg" /></a>
   </p>
 
   <br>
 
   <h3>⚙️ Software e Ferramentas</h3>
   <p>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img alt="vscode" height ="42px" src="img/tech/vscode.svg" /></a>
-    <a href="https://cursor.com/" target="_blank"> <img alt="cursor" height ="42px" src="img/tech/cursor.svg" /></a>
-    <a href="https://excel.cloud.microsoft/" target="_blank"> <img alt="excel" height ="42px" src="img/tech/excel.svg" /></a>
-    <a href="https://word.cloud.microsoft/" target="_blank"> <img alt="word" height ="42px" src="img/tech/microsoft_office_word.svg" /></a>
-    <a href="https://www.microsoft.com/pt-br/microsoft-teams/download-app" target="_blank"> <img alt="word" height ="42px" src="img/tech/microsoft_office_teams.svg" /></a>
-    <a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint" target="_blank"> <img alt="word" height ="42px" src="img/tech/microsoft_office_powerpoint.svg" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img alt="vscode" height ="52px" src="img/tech/vscode.svg" /></a>
+    <a href="https://cursor.com/" target="_blank"> <img alt="cursor" height ="52px" src="img/tech/cursor.svg" /></a>
+    <a href="https://excel.cloud.microsoft/" target="_blank"> <img alt="excel" height ="52px" src="img/tech/excel.svg" /></a>
+    <a href="https://word.cloud.microsoft/" target="_blank"> <img alt="word" height ="52px" src="img/tech/microsoft_office_word.svg" /></a>
+    <a href="https://www.microsoft.com/pt-br/microsoft-teams/download-app" target="_blank"> <img alt="word" height ="52px" src="img/tech/microsoft_office_teams.svg" /></a>
+    <a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint" target="_blank"> <img alt="word" height ="52px" src="img/tech/microsoft_office_powerpoint.svg" /></a>
   </p>
 </details>
 
