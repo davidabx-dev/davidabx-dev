@@ -71,6 +71,7 @@
     <a href="https://gemini.google.com/" target="_blank"> <img alt="Gemini" height="42px" src="img/tech/gemini-ai.svg" /></a>
     <a href="https://www.anthropic.com/" target="_blank"> <img alt="Claude" height="42px" src="img/tech/claude-ai.svg" /></a>
     <a href="https://groq.com/" target="_blank"> <img alt="Groq" height="42px" src="img/tech/groq.svg" /></a>
+    <a href="https://copilot.microsoft.com/" target="_blank"> <img alt="Groq" height="42px" src="img/tech/microsoft-copilot.svg" /></a>
   </p>
 
   <br>
@@ -86,6 +87,7 @@
 
   <h3>☁️ DevOps, Cloud & Operating Systems</h3>
   <p>
+    <a href="https://www.kali.org/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/kali-linux.svg" /></a>
     <a href="https://www.microsoft.com/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/microsoft-windows.svg" /></a>
     <a href="https://www.linux.org/" target="_blank"> <img alt="linux" height ="42px" src="img/tech/linux-original.svg" /></a>
     <a href="https://www.docker.com/" target="_blank"> <img alt="Docker" height="42px" src="img/tech/docker-original.svg" /></a>
@@ -102,7 +104,8 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <img alt="vscode" height ="42px" src="img/tech/vscode.svg" /></a>
     <a href="https://cursor.com/" target="_blank"> <img alt="cursor" height ="42px" src="img/tech/cursor-original.svg" /></a>
     <a href="https://excel.cloud.microsoft/" target="_blank"> <img alt="excel" height ="42px" src="img/tech/excel.svg" /></a>
-    <a href="https://word.cloud.microsoft/" target="_blank"> <img alt="word" height ="42px" src="img/tech/Microsoft_Office_Word.svg" /></a>
+    <a href="https://word.cloud.microsoft/" target="_blank"> <img alt="word" height ="42px" src="img/tech/microsoft_Office_Word.svg" /></a>
+    <a href="https://www.microsoft.com/pt-br/microsoft-teams/download-app" target="_blank"> <img alt="word" height ="42px" src="img/tech/Microsoft_Office_Teams.svg" /></a>
   </p>
 </details>
 
