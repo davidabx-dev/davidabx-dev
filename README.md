@@ -32,7 +32,7 @@
 <div align="center">
     <h3>🎨 UI/UX Design & Frontend Architecture</h3>
   <p>
-    <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" height="58px" src="img/tech/figma.svg" /></a>
+    <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" height="60px" src="img/tech/figma.svg" /></a>
     <a href="https://flutter.dev/" target="_blank"> <img alt="tailwindcss" height="60px" src="img/tech/flutter.svg" /></a>
     <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="60px" src="img/tech/html5.svg" /></a>
     <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="60px" src="img/tech/css3.svg" /></a>
