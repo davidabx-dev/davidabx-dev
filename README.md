@@ -33,11 +33,12 @@
     <h3>🎨 UI/UX Design & Frontend Architecture</h3>
   <p>
     <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" height="58px" src="img/tech/figma.svg" /></a>
+    <a href="https://flutter.dev/" target="_blank"> <img alt="tailwindcss" height="60px" src="img/tech/flutter.svg" /></a>
     <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="60px" src="img/tech/html5.svg" /></a>
     <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="60px" src="img/tech/css3.svg" /></a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img alt="tailwindcss" height="60px" src="img/tech/tailwindcss.svg" /></a>
     <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank"> <img alt="Javascript" height="62px" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="Typerscript" height="62px" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img alt="tailwindcss" height="60px" src="img/tech/tailwindcss.svg" /></a>
     <a href="https://vuejs.org/" target="_blank"> <img alt="vuejs" height="60px" src="img/tech/vuejs.svg" /></a>
     <a href="https://vite.dev/" target="_blank"> <img alt="vitejs" height="60px" src="img/tech/vite.svg" /></a>
   </p>
