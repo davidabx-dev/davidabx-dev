@@ -74,6 +74,7 @@
     <a href="https://www.anthropic.com/" target="_blank"> <img alt="Claude" height="52px" src="img/tech/claude-ai.svg" /></a>
     <a href="https://groq.com/" target="_blank"> <img alt="Groq" height="52px" src="img/tech/groq.svg" /></a>
     <a href="https://copilot.microsoft.com/" target="_blank"> <img alt="Groq" height="52px" src="img/tech/microsoft-copilot.svg" /></a>
+    <a href="https://ollama.com/" target="_blank"> <img alt="Groq" height="52px" src="img/tech/ollama.svg" /></a>
   </p>
 
   <br>
