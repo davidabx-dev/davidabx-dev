@@ -89,7 +89,7 @@
   <br>
 
   <h3>☁️ DevOps, Cloud & Operating Systems</h3>
-  <p>img/tech/google-cloud.svg
+  <p>
     <a href="https://www.kali.org/" target="_blank"> <img alt="linux" height ="62px" src="img/tech/kali-linux.svg" /></a>
     <a href="https://www.microsoft.com/" target="_blank"> <img alt="linux" height ="62px" src="img/tech/microsoft-windows.svg" /></a>
     <a href="https://www.linux.org/" target="_blank"> <img alt="linux" height ="62px" src="img/tech/linux-2025.svg" /></a>
