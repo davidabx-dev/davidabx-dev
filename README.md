@@ -89,10 +89,12 @@
   <br>
 
   <h3>☁️ DevOps, Cloud & Operating Systems</h3>
-  <p>
+  <p>img/tech/google-cloud.svg
     <a href="https://www.kali.org/" target="_blank"> <img alt="linux" height ="62px" src="img/tech/kali-linux.svg" /></a>
     <a href="https://www.microsoft.com/" target="_blank"> <img alt="linux" height ="62px" src="img/tech/microsoft-windows.svg" /></a>
     <a href="https://www.linux.org/" target="_blank"> <img alt="linux" height ="62px" src="img/tech/linux-2025.svg" /></a>
+    <a href="https://console.cloud.google.com/" target="_blank"> <img alt="google cloud" height ="62px" src="img/tech/google-cloud.svg" /></a>
+    <a href="https://cloud.google.com/vertex-ai/" target="_blank"> <img alt="Verte AI" height ="62px" src="img/tech/vertexai.svg" /></a>
     <a href="https://www.docker.com/" target="_blank"> <img alt="Docker" height="62px" src="img/tech/docker.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="62px" src="img/tech/git.svg" /></a>
     <a href="https://github.com/davidabx-dev" target="_blank"> <img alt="Github" height ="50px" src="img/tech/github.svg" /></a>
