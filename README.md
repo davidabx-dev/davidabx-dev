@@ -58,12 +58,12 @@
 
   <h3>💻 Core Programming Languages</h3>
   <p>
-    <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px" src="img/tech/python.svg" /></a>
-    <a href="https://www.java.com/" target="_blank"> <img alt="Python" height ="52px" src="img/tech/java.svg" /></a>
-    <a href="https://www.php.net/" target="_blank"> <img alt="php" height ="52px" src="img/tech/php.svg" /></a>
-    <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"> <img alt="C#" height="52px" src="img/tech/csharp.svg" /></a>
-    <a href="https://go.dev/" target="_blank"> <img alt="Go" height="52px" src="img/tech/go.svg" /></a>
-    <a href="https://azure.microsoft.com/pt-br/products/azure-sql/database" target="_blank"> <img alt="SQL" height="52px" src="img/tech/azuresqldatabase.svg" /></a>
+    <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="52px" src="img/tech/python.svg" /></a>
+    <a href="https://www.java.com/" target="_blank"> <img alt="Python" height ="62px" src="img/tech/java.svg" /></a>
+    <a href="https://www.php.net/" target="_blank"> <img alt="php" height ="62px" src="img/tech/php.svg" /></a>
+    <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"> <img alt="C#" height="62px" src="img/tech/csharp.svg" /></a>
+    <a href="https://go.dev/" target="_blank"> <img alt="Go" height="62px" src="img/tech/go.svg" /></a>
+    <a href="https://azure.microsoft.com/pt-br/products/azure-sql/database" target="_blank"> <img alt="SQL" height="62px" src="img/tech/azuresqldatabase.svg" /></a>
   </p>
 
   <br>
