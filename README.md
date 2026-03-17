@@ -107,6 +107,7 @@
 
   <h3>⚙️ Software e Ferramentas</h3>
   <p>
+    <a href="https://antigravity.google/" target="_blank"> <img alt="word" height ="62px" src="img/tech/antigravity.svg" /></a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img alt="vscode" height ="62px" src="img/tech/vscode.svg" /></a>
     <a href="https://cursor.com/" target="_blank"> <img alt="cursor" height ="62px" src="img/tech/cursor.svg" /></a>
     <a href="https://excel.cloud.microsoft/" target="_blank"> <img alt="excel" height ="62px" src="img/tech/excel.svg" /></a>
